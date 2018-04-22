@@ -18,7 +18,7 @@ struct location {
         uint32_t positions;
         uint32_t loc_id;
         char* name;
-}
+};
 
 
 struct student* init_student(char* name, uint32_t* ranking);
