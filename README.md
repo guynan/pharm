@@ -1,12 +1,13 @@
+# Pharmacy Problem
+
 [![Build Status](https://travis-ci.org/guynan/pharm.svg?branch=master)](https://travis-ci.org/guynan/pharm)
 
-Problem
+## Problem
 
 30 Hospitals, 80 students, each hospital ranked in terms of preference.
 
 
-Possible areas of solutions
-Look into;
+## Possible Solution Areas
  * Fair Division
  * Partitions (discrete maths)
  * Hungarian Algorithm
@@ -14,7 +15,7 @@ Look into;
  * Combinatorial Optimisation
 
 
-Comparison of solutions
+## Comparison of solutions
 
 The metric of the 'overall happiness' of the solution of the problem is
 assessed by method akin to the standard deviation;
@@ -22,7 +23,7 @@ The summation over all the students respective distance away from their
 preference squared. 
 
 
-Criticism
+## Criticism
 
 This method is likely to ignore the fact that past a certain point, most
 peoples preferences for certain things will be inorderable. This 
