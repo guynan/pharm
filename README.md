@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/guynan/pharm.svg?branch=master)](https://travis-ci.org/guynan/pharm)
 
 Problem
 
